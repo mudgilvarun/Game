@@ -1,2 +1,1 @@
-# Game
-Created a stone paper sissers game
+I recently developed a Rock, Paper, Scissors game using HTML, CSS, and JavaScript. It features a user-friendly interface and smooth gameplay. I’d love for you to check it out and let me know what you think!
